@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mossydonut
 - 👀 I’m interested in bryophytes, karst, speleology, and ecology.
-- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently learning R. 
 - 💞️ I’m looking to collaborate on biology programs. 
 - 📫 How to reach me - mossydonut@gmail.com
 
